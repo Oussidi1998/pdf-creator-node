@@ -29,6 +29,9 @@ var document = {
   html: html,
   data: {
     users: users,
+    test:{
+      name:"34"
+    }
   },
   path: "./output.pdf",
   type: "",
@@ -39,6 +42,9 @@ var document = {
   html: html,
   data: {
     users,
+    test:{
+      name:"34"
+    }
   },
   path: "./output.pdf",
   type: "", // "stream" || "buffer" || "" ("" defaults to pdf)
